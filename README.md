@@ -43,3 +43,4 @@ These are the races available so far. The leading number is the numeric ID used 
 | 6  | Tour de France 2016
 | 7  | Vuelta a España 2016
 | 19 | Tour de France 2017
+| 20 | Vuelta a España 2017
